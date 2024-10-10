@@ -1,8 +1,8 @@
 package main
 
 import (
-	"assignment/calculatorop"
 	"fmt"
+	"calculator/calculatorop"
 )
 
 func main() {
