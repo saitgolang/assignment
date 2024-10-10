@@ -1,5 +1,5 @@
 
-package mathops
+package calculatorop
 
 // Add returns the sum of two numbers
 func Add(a, b float64) float64 {
